@@ -32,7 +32,8 @@ module.exports = function(config) {
             'lib/angular/1.5.8/angular-mocks.js',
             'src/**/*.js',
             'test/common.js',
-            'test/services/**/*.js'
+            'test/services/**/*.js',
+            'test/interceptors/**/*.js'
         ],
         // list of files to exclude
         exclude: [],
